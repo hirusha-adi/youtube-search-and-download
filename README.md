@@ -1,5 +1,7 @@
 # youtube-search-and-download
 
+Simple lightweight script to search and download youtube videos in any available quality with python3 and pytube. Supports multiple operating systems.
+
 # Usage
 
 - How to start the script in windows?
